@@ -1,0 +1,12 @@
+streamlit>=1.24
+numpy
+scikit-learn
+requests
+langchain==1.0.3
+langchain-classic==1.0.0
+langchain-community==0.4.1
+langchain-core==1.0.2
+langchain-ollama==1.0.0
+langchain-text-splitters==1.0.0
+docarray==0.41.0
+ollama==0.6.0
